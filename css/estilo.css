@@ -1,5 +1,24 @@
 .rn {
     color: red;
     text-align: center;
+}
 
+body {
+    font-size: 1.2em;
+    color: crimson;
+}
+
+.text-title {
+    font-size: 6.5em;
+    color: #407193;
+    font-family:
+}
+
+.text-sub {
+    font-size: 1.8em;
+    font-family:
+}
+
+.bg-title {
+    background: url('../img/jj.jpg ')
 }
